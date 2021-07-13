@@ -26,6 +26,11 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "config":{
+        "googleMaps":{
+            "apiKey":"AIzaSyDpCfK5NdA1j7xR4TrFGw26XBGftgKNC-I"
+        }
+      },
       "package": "com.soseki.excelordenes"
     },
     "web": {
